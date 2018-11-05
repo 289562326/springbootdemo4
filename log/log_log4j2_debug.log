@@ -1,0 +1,3 @@
+2018-11-05 11:26:23  INFO - Starting Application on LAPTOP-4NKCBKCL with PID 6992 (D:\07-myTutorial\00-github\blog\springbootdemo4\target\classes started by 28956 in D:\07-myTutorial\00-github\blog\springbootdemo4) (org.springframework.boot.StartupInfoLogger.logStarting:50) [main:3893]
+2018-11-05 11:26:23 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE (org.springframework.boot.StartupInfoLogger.logStarting:53) [main:3909]
+2018-11-05 11:26:23  INFO - The following profiles are active: dev (org.springframework.boot.SpringApplication.logStartupProfileInfo:666) [main:3910]
